@@ -64,7 +64,7 @@ int main()
             printf("Enter agent number\n");
             scanf("%ld",&agentNum);
             printf("Enter amount\n");
-            scanf("%lf",&cashWithdraw);
+            scanf("%l=lf",&cashWithdraw);
             cashWithdraw = cashWithdraw + (cashWithdraw*2)/100;
             if(cashWithdraw < mainBalance){
                 mainBalance = mainBalance - cashWithdraw;
