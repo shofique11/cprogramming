@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726325715 source:d:\cprogramming\bkash\main.c
+	<stdio.h>
+	<stdlib.h>
+
